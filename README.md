@@ -7,19 +7,16 @@ I am a __Full-Stack engineer__ with `19+` years working for clients around the ð
 ---
 
 - Last 2 years I been working as full-stack developer @BottleRocket
-  - Technologies: `PHP`, `GraphQL`, `TypeScript`, `Docker`, `Ci-CD`, `Tests`
-  - Frameworks: `Yii`, `React`, `Node`, `Express`
+  - Technologies: `PHP 8.2`, `GraphQL`, `TypeScript`, `Docker`, `Ci/CD`, `Tests`
+  - Frameworks: `Yii`, `React.js`, `Node.js`, `Express.js`, `Tailwind`
  
 - Previous 5 years I worked as backend team lead @BCVSocial  
-  - Technologies: `PHP`, `SQL`, `JavaScript`, `Docker`, `Ci-CD`, `Tests`
-  - Frameworks: `Symfony`, `Vue`, `Node`
+  - Technologies: `PHP 8`, `Postgres SQL`, `JavaScript`, `Docker`, `Ci/CD`, `Tests`
+  - Frameworks: `Symfony 3/4/5`, `Vue.js`, `Node.js`
  
 - Before that as a Full-Stack developer freelance @underSCREEN
-  - Technologies: `PHP`, `SQL`, `JavaScript`, `Docker`, `Ci-CD`, `Tests`
-  - Frameworks: `Symfony`, `Vue`, `Node`
-
-<!--
-## Technologies
+  - Technologies: `PHP 5.3`, `Mysql SQL`, `JavaScript`, `Docker`, `Tests`
+  - Frameworks: `Symfony 2`, `Angular`, `Twitter Bootstrap`
 
 ### Languages/Frameworks
 
