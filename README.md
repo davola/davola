@@ -1,8 +1,10 @@
-Hi there 👋
+### Hi there 👋
 
 ---
 
-## I am a __Full-Stack engineer__ with `19+` years working for clients around the 🌐 ,
+I am a __Full-Stack engineer__ with `19+` years working for clients around the 🌐
+
+---
 
 - Last 2 years I been working as full-stack developer @BottleRocket
   - Technologies: `PHP`, `GraphQL`, `TypeScript`, `Docker`, `Ci-CD`, `Tests`
